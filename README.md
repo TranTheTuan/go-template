@@ -1,2 +1,2 @@
-# moviestar
-Movie rating system
+# go-template
+Go project layout template
